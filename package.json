@@ -1,7 +1,6 @@
 {
   "name": "base-project",
   "version": "1.0.0",
-  "description": "A base project is a sample standard project in which separation of concerns followed that contains separate layers for builds, assets, business logic, and other coding techniques in separate directories. This project explains how to keep everything intact that is needed in code in its place. All the coding techniques which are standard of Arhamsoft's MERN apps are enlisted in this base project.",
   "author": "ArhamSoft MERN Code Audit Committee",
   "main": "src/index.js",
   "private": true,
